@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "366097630454",
+    "project_id": "kishan-whatsapp",
+    "storage_bucket": "kishan-whatsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366097630454:android:0ee450f605597df0ffd8d7",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366097630454-9e8nf3e7175ldp50ubmi43ttv5dqg683.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbN2DcpZwdO3GsO1e-Bsy45tRYR93Dr5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366097630454-9e8nf3e7175ldp50ubmi43ttv5dqg683.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
